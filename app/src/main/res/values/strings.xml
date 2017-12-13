@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">kostka</string>
+    <string name="jedna">Jedna Kostka</string>
+    <string name="dwie">Dwie Kostki</string>
+    <string name="rzuc">Rzuć!</string>
+    <string name="wylosowales">Wylosowałeś: </string>
+    <string name="jeden">1</string>
+    <string name="i"> i </string>
+</resources>
